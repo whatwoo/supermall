@@ -142,7 +142,7 @@ export default {
   }
 
   .home-nav {
-    background-color: #5EB9F1;
+    background-color: #FF5777;
     color: #fff;
     z-index: 5;
     /* position: fixed;
